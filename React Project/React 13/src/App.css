@@ -1,0 +1,27 @@
+.container{
+  display:flex;
+  justify-content:center;
+  margin-top:80px;
+}
+
+.box{
+  width:300px;
+  padding:20px;
+  border-right:5px solid green;
+}
+
+.box:last-child{
+  border-right:none;
+}
+
+h1{
+  font-size:28px;
+}
+
+h2{
+  font-size:22px;
+}
+
+p{
+  font-size:18px;
+}
